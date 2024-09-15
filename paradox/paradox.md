@@ -20,10 +20,10 @@
 
 ### Skill Priority
 <p align="center">
-  <img src="paradox-apo.png" alt="logo" height="300"/>
+  <img src="paradox-apo.png" alt="logo"/>
 </p>
 
-Two points in Snipe early helps poking in lane. Two points in ult after ensures we can land it reliably. Back to sniping to max poke, then ult to get it off CD asap.
+Two points in Snipe early helps poking in lane.
 
 ### Combos
 - **Snipe Charge > Grenade  > Click**
@@ -48,17 +48,3 @@ Two points in Snipe early helps poking in lane. Two points in ult after ensures 
 
 ### Gun Style
 - 5-shot burst uzi with ADS
-
-### Core Items
-- **Early**
-   - Basic Mag > Mythic Burst > Extra Stamina
-- **Mid**
-   - Long Range > Mystic Shot > Improved Burst
-- **Mid-Late**
-   - Sharpshooter > Titanic Magazine
-   - Then Warp Stone > Superior Stamina
-- **Late**
-  - Inhibitor > Mystic Reverb (Grenade)
-  - Superior CD (Snipe) >  Mystic Slow
-- **Late-Late**
-  - Metal Skin > Leech

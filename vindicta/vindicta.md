@@ -20,7 +20,7 @@
 ### Skill Priority
 
 <p align="center">
-  <img src="vindicta-apo.png" alt="logo" height="300"/>
+  <img src="vindicta-apo.png" alt="logo"/>
 </p>
 
 - Grabbing **a point in Crow > Stake > Flight** really unlocks her sniper kit, allowing for
@@ -55,13 +55,3 @@
 
 ### Gun Style
 - single shot sniper rifle with ADS, low fire rate
-
-### Core Items
-- **Early**
-   - Headshot Booster, Monster Rounds, Hollow Points
-   - Extra Charge, Extra Spirit, Quicksilver Reload (on Snipe)
-- **Mid**
-   - Long Range > Sharpshooter,
-   - S/B Armor, Extra Health
-- **Late**
-   -Lucky Shot, Vampiric Burst, Glass Cannon, Ricochet

@@ -20,7 +20,7 @@
 ### Skill Priority
 
 <p align="center">
-  <img src="wraith-apo.png" alt="logo" height="300"/>
+  <img src="wraith-apo.png" alt="logo"/>
 </p>
 
 - We always start with card, as it's our main poke.
@@ -43,16 +43,3 @@
 
 ### Gun Style
 - machine gun w ADS
-
-### Core Items
-- **Lane**
-   - Basic Mag > Monster Rounds > Mystic Reach
-   - Extra Regen > Healing Rite > Slowing Bullets
-- **Core**
-   - Quicksilver Reload > Tesla Bullets > Lucky Shot
-- **Situational**
-   - Titanic Magazine > Toxic Bullets > Healbane
-   - Bullet/Spirit Armor > Improved B/S Armor
-- **Late**
-  - Glass Cannon > Vampiric Burst > Leech
-  - Inhibitor > Curse > Improved Reach

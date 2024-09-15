@@ -30,7 +30,7 @@ Remember, we unlock 2nd skill at 400 souls, 3rd at 1.5k, with ult at 3k.
   - Charge > Regen
 
 <p align="center">
-  <img src="abrams-apo.png" alt="logo" height="300"/>
+  <img src="abrams-apo.png" alt="logo"/>
 </p>
 
 Abrams bait-and-switches enemies with lifesteal, and starts fights with charge. Most ability upgrades to lower CD do so significantly! This is why we jump around to grab lower CDs rather than max one skill at a time.
@@ -58,11 +58,3 @@ Note that we do level up Regen twice before our ult for the 150 base health (eff
 
 ### Gun Style
 - Slow shotgun with ADS.
-
-### Core Items
-- **Early**
-   - Melee Lifesteal > Infuser > Melee Charge
-- **Mid**
-   - Spirit Lifesteal > Torment Pulse
-- **Late**
-   - Leech > Siphon Bullets
